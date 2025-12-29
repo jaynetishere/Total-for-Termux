@@ -1,3 +1,3 @@
-module github.com/jaynetblacemen/Total
+module github.com/jaynetishere/Total-for-Termux
 
 go 1.25
