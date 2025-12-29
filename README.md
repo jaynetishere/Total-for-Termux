@@ -14,7 +14,7 @@ Experience fast, terminal-native communication directly from your command line.
 
 ## InstallationYou must have **Go** and **Git** installed on your system to install Total.
 
-### Linux (Recommended)Run the following command in your terminal:
+### Termux Run the following command in your terminal:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/jaynetishere/Total-for-Termux/main/Installation/install.sh | bash
