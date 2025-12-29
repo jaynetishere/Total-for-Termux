@@ -2,7 +2,7 @@
 
 set -e
 
-REPO_URL="https://github.com/jaynetblacemen/Total"
+REPO_URL="https://github.com/jaynetishere/Total-for-Termux"
 INSTALL_DIR="/usr/local/bin"
 BINARY_NAME="total"
 
