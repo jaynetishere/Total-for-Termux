@@ -1,5 +1,5 @@
 # Total is a **CLI-based real-time chatting platform** designed primarily for Linux environments.
-
+[This version is for Termux NOT linux]
 Experience fast, terminal-native communication directly from your command line.
 
 ---
@@ -19,24 +19,6 @@ Experience fast, terminal-native communication directly from your command line.
 ```bash
 curl -fsSL https://raw.githubusercontent.com/jaynetishere/Total-for-Termux/main/Installation/install.sh | bash
 ```
-
-### Windows
-**Note:** The Windows installer has not been extensively tested and was generated with the assistance of an AI. Use at your own discretion.
-
-1. **Adjust Execution Policy (if necessary):** If you encounter an error (Windows may block unknown scripts), run the following command in PowerShell:
-```powershell
-Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
-
-```
-
-
-2. **Run the Installer:** Execute this command in PowerShell:
-```powershell
-irm https://raw.githubusercontent.com/jaynetblacemen/Total/main/Installation/install.ps1 | iex
-
-```
-
-
 
 ---
 
