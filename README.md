@@ -17,8 +17,7 @@ Experience fast, terminal-native communication directly from your command line.
 ### Linux (Recommended)Run the following command in your terminal:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/jaynetblacemen/Total/main/Installation/install.sh | bash
-
+curl -fsSL https://raw.githubusercontent.com/jaynetishere/Total/main/Installation/install.sh | bash
 ```
 
 ### Windows
